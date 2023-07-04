@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=220_L Pin=J12-1
+Added Pin To Net: NetName=220_L Pin=J12-2
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=U16-2
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Room: Name=U_Printing2
+Added Room: Name=U_Printing3
+Added Room: Name=U_Printing4
+Added Room: Name=U_Printing5
+Added Room: Name=U_Printing6
+Added Room: Name=U_Printing

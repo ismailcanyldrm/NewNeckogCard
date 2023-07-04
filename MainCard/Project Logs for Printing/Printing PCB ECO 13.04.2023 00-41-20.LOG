@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+24V Pin=J7-1
+Removed Pin From Net: NetName=+24V Pin=J8-1
+Added Pin To Net: NetName=+24VA Pin=J7-1
+Added Pin To Net: NetName=+24VA Pin=J8-1
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing5 Member=Component C101 Capacitor
+Added Member To Class: ClassName=U_Printing5 Member=Component R171 StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component VR2 XC6206P122MR

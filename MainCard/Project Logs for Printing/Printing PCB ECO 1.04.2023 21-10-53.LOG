@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=E0_UART Pin=IC2-56
+Removed Pin From Net: NetName=+24VA Pin=J27-3
+Removed Pin From Net: NetName=+24VA Pin=J28-3
+Removed Pin From Net: NetName=+24VA Pin=J29-1
+Removed Pin From Net: NetName=+24VA Pin=J31-1
+Removed Pin From Net: NetName=+24VA Pin=J32-1
+Removed Pin From Net: NetName=+24VA Pin=J33-1
+Removed Pin From Net: NetName=+24VA Pin=J37-2
+Removed Pin From Net: NetName=+24VA Pin=J38-2
+Removed Pin From Net: NetName=+24VA Pin=J52-1
+Removed Pin From Net: NetName=+24VA Pin=J53-1
+Removed Pin From Net: NetName=+24VA Pin=J54-1
+Removed Pin From Net: NetName=+24VA Pin=J61-3
+Removed Pin From Net: NetName=+24VA Pin=R82-2
+Removed Pin From Net: NetName=+24VA Pin=R83-2
+Removed Pin From Net: NetName=+24VA Pin=R170-2
+Removed Pin From Net: NetName=+24VA Pin=R185-2
+Removed Pin From Net: NetName=+24VA Pin=R193-2
+Removed Pin From Net: NetName=+24VA Pin=R194-2
+Removed Pin From Net: NetName=+24VA Pin=R195-2
+Removed Pin From Net: NetName=+24VA Pin=R196-2
+Removed Pin From Net: NetName=+24VA Pin=R197-2
+Added Pin To Net: NetName=E0_STEP Pin=IC2-56
+Added Pin To Net: NetName=+24V Pin=J27-3
+Added Pin To Net: NetName=+24V Pin=J28-3
+Added Pin To Net: NetName=+24V Pin=J29-1
+Added Pin To Net: NetName=+24V Pin=J31-1
+Added Pin To Net: NetName=+24V Pin=J32-1
+Added Pin To Net: NetName=+24V Pin=J33-1
+Added Pin To Net: NetName=+24V Pin=J37-2
+Added Pin To Net: NetName=+24V Pin=J38-2
+Added Pin To Net: NetName=+24V Pin=J52-1
+Added Pin To Net: NetName=+24V Pin=J53-1
+Added Pin To Net: NetName=+24V Pin=J54-1
+Added Pin To Net: NetName=+24V Pin=J61-3
+Added Pin To Net: NetName=+24V Pin=R82-2
+Added Pin To Net: NetName=+24V Pin=R83-2
+Added Pin To Net: NetName=+24V Pin=R170-2
+Added Pin To Net: NetName=+24V Pin=R185-2
+Added Pin To Net: NetName=+24V Pin=R193-2
+Added Pin To Net: NetName=+24V Pin=R194-2
+Added Pin To Net: NetName=+24V Pin=R195-2
+Added Pin To Net: NetName=+24V Pin=R196-2
+Added Pin To Net: NetName=+24V Pin=R197-2
+Change Net Name : Old Net Name=NetJ9_2 New Net Name=220_N
+Change Net Name : Old Net Name=NetR27_1 New Net Name=OUT_A
+Change Net Name : Old Net Name=NetR164_1 New Net Name=OUT_B
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=HICO Pin=D14-A
+Added Pin To Net: NetName=HICO Pin=D15-A
+Added Pin To Net: NetName=HICO Pin=R30-1
+Added Pin To Net: NetName=HICO Pin=R167-1
+Added Net: Name=HICO
+Added Pin To Net: NetName=PA5 Pin=R180-2
+Added Pin To Net: NetName=PA5 Pin=U1-6
+Added Pin To Net: NetName=PA5 Pin=IC2-30
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=R124-2
+Added Pin To Net: NetName=PA6 Pin=U1-11
+Added Pin To Net: NetName=PA6 Pin=IC2-31
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA8 Pin=R178-2
+Added Pin To Net: NetName=PA8 Pin=U1-2
+Added Pin To Net: NetName=PA8 Pin=IC2-67
+Added Net: Name=PA8
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI

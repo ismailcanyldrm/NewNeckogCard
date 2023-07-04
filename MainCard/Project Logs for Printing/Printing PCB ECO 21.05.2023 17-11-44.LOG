@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=+ NewDesignator=Q7
+Added Component: Designator=Q6(DPAK_SQD50N10-8M9L)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\BNA_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Transistors\Q00028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "1.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "1.84@[60%CL; 55°C; 0.7eV]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q101;  Single nMOS; Rdson=11.2mR@Vgs=4.5V@25°C; Qgate(tot)=70nC; Vgsmax=±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "Q00028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "NMOS_100V-50A_#1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "4D7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "SQD50N10-8M9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DPAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "97.50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "SQM70060EL_GE3; SQM100N10-10_GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "-55°C/+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RFD14N05LSM9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "70V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "370mg"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=Net+_3 Pin=Q6-TAB
+Change Net Name : Old Net Name=Net+_3 New Net Name=NetD7_A
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R123-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing Member=Component Q6 SingleNMOS_G1S3DTAB
+Added Room: Name=U_Printing2
+Added Room: Name=U_Printing3
+Added Room: Name=U_Printing4
+Added Room: Name=U_Printing5
+Added Room: Name=U_Printing6
+Added Room: Name=U_Printing

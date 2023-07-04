@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=RLY? NewDesignator=RLY1
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI

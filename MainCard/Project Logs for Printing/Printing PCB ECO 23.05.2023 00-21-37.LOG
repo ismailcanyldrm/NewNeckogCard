@@ -1,0 +1,91 @@
+Change Component Footprint: Designator=J9 Old Footprint=JST_B2B-XH-A(LF)(SN) New Footprint=5.08 Klemens
+Change Component Footprint: Designator=J12 Old Footprint=JST_B2B-XH-A(LF)(SN) New Footprint=5.08 Klemens
+Change Component Footprint: Designator=J19 Old Footprint=JST_B2B-XH-A(LF)(SN) New Footprint=5.08 Klemens
+Change Component Comment : Designator=J9 Old Comment=B2B-XH-A(LF)(SN) New Comment=5.08 Klemens
+Change Component Comment : Designator=J12 Old Comment=B2B-XH-A(LF)(SN) New Comment=5.08 Klemens
+Change Component Comment : Designator=J19 Old Comment=B2B-XH-A(LF)(SN) New Comment=5.08 Klemens
+Change Component Designator: OldDesignator=S NewDesignator=RLY1
+Change component parameters: Designator = "J9" ("J9"); Footprint = "JST_B2B-XH-A(LF)(SN)"; UniqueID = "\ZKVUESFI\VQZFWSNJ" ("\ZKVUESFI\VQZFWSNJ")
+Change component parameters: Designator = "J12" ("J12"); Footprint = "JST_B2B-XH-A(LF)(SN)"; UniqueID = "\ZKVUESFI\ASUPBJCW" ("\ZKVUESFI\ASUPBJCW")
+Change component parameters: Designator = "J19" ("J19"); Footprint = "JST_B2B-XH-A(LF)(SN)"; UniqueID = "\ZKVUESFI\TURTOAKL" ("\ZKVUESFI\TURTOAKL")
+Added Component: Designator=D3(0805 LED)
+Add component (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/14176/kp2012src-prv-eng-tds-14176962.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/14176/kp2012src-prv-eng-tds-14176962.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11773/0900766b8032fa8d-11773524.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11773/0900766b8032fa8d-11773524.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/14634/0900766b8032fa8d-14634746.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/14634/0900766b8032fa8d-14634746.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/29281/180105-da-01-en-led-0805-typ-kp-2012src-prv-29281248.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/29281/180105-da-01-en-led-0805-typ-kp-2012src-prv-29281248.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.85V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Rectangular,Diffused,Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "100mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KP-2012SRC-PRV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0,12900, 50=0,10200, 100=0,09830, 500=0,08370, 1000=0,07290 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1318244"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "640nm"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R_0805_GEN_0.70H)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\FireANTs_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Resistors\R00098"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "0.31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "R00098"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "STD_442K_#1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "2B25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "ERA-6AEB4423V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "RG2012P-4423-B-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "10.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "RN73C2A442KBTDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.8K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5.5mg"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=NetD3_A Pin=R21-1
+Added Pin To Net: NetName=+3V3 Pin=R21-2
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing Member=Component D3 KP-2012SRC-PRV
+Added Member To Class: ClassName=U_Printing Member=Component Fuse1 5*20mm Fuseholder
+Added Member To Class: ClassName=U_Printing Member=Component R21 StandardResistor
+Added Member To Class: ClassName=U_Printing Member=Component U15 L7812CD2T-TR

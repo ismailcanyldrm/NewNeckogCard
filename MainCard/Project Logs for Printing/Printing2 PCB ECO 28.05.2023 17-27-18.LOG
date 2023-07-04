@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=J27-1
+Removed Pin From Net: NetName=+24VA Pin=J27-3
+Removed Pin From Net: NetName=+24VA Pin=J54-1
+Removed Member From Class: ClassName=U_Printing4 Member=J27
+Change Component Footprint: Designator=J54 Old Footprint=JST_B2B-XH-A(LF)(SN) New Footprint=JST_B3B-XH-A(LF)(SN)
+Change Component Comment : Designator=J54 Old Comment=B2B-XH-A(LF)(SN) New Comment=B3B-XH-A(LF)(SN)
+Change component parameters: Designator = "J54" ("J54"); Footprint = "JST_B2B-XH-A(LF)(SN)"; UniqueID = "\KNERHVAH\AJTXSJFE" ("\KNERHVAH\AJTXSJFE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J61(JST_B2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B2B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J54-1
+Added Pin To Net: NetName=+24VA Pin=J54-3
+Added Pin To Net: NetName=+24VA Pin=J61-1
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing4 Member=Component J61 B2B-XH-A(LF)(SN)

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R74
+Change Component Designator: OldDesignator=R? NewDesignator=R80
+Change Component Designator: OldDesignator=R? NewDesignator=R82
+Change Component Designator: OldDesignator=R? NewDesignator=R83
+Change Component Designator: OldDesignator=R? NewDesignator=R84
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing5 Member=Component R74 StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R82 StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R83 StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R84 StandardJumper
+Added Room: Name=U_Printing5

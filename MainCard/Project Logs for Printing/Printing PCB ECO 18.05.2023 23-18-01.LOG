@@ -1,0 +1,279 @@
+Removed Pin From Net: NetName=X-0 Pin=J20-1
+Removed Pin From Net: NetName=XDIAG Pin=J20-2
+Removed Pin From Net: NetName=Y_0 Pin=J21-1
+Removed Pin From Net: NetName=YDIAG Pin=J21-2
+Removed Pin From Net: NetName=Z_0 Pin=J22-1
+Removed Pin From Net: NetName=ZDIAG Pin=J22-2
+Removed Pin From Net: NetName=Z+0 Pin=J23-1
+Removed Pin From Net: NetName=E0DIAG Pin=J23-2
+Removed Pin From Net: NetName=E1-0 Pin=J24-1
+Removed Pin From Net: NetName=E1DIAG Pin=J24-2
+Removed Member From Class: ClassName=U_Printing5 Member=J20
+Removed Member From Class: ClassName=U_Printing5 Member=J21
+Removed Member From Class: ClassName=U_Printing5 Member=J22
+Removed Member From Class: ClassName=U_Printing5 Member=J23
+Removed Member From Class: ClassName=U_Printing5 Member=J24
+Change Component Footprint: Designator=J7 Old Footprint=L-KLS1-207-1-02-S New Footprint=JST_B2B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J8 Old Footprint=L-KLS1-207-1-02-S New Footprint=JST_B2B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J27 Old Footprint=L-KLS1-207-1-03-S New Footprint=JST_B3B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J28 Old Footprint=L-KLS1-207-1-03-S New Footprint=JST_B3B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J61 Old Footprint=L-KLS1-207-1-03-S New Footprint=JST_B3B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J5 Old Footprint=L-KLS1-207-1-04-S New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J6 Old Footprint=L-KLS1-207-1-04-S New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=J7 Old Comment=L-KLS1-207-1-02-S New Comment=B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=J8 Old Comment=L-KLS1-207-1-02-S New Comment=B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=J27 Old Comment=L-KLS1-207-1-03-S New Comment=B3B-XH-A(LF)(SN)
+Change Component Comment : Designator=J28 Old Comment=L-KLS1-207-1-03-S New Comment=B3B-XH-A(LF)(SN)
+Change Component Comment : Designator=J61 Old Comment=L-KLS1-207-1-03-S New Comment=B3B-XH-A(LF)(SN)
+Change Component Comment : Designator=J6 Old Comment=USART1 New Comment=B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=J5 Old Comment=USART3 New Comment=B4B-XH-A(LF)(SN)
+Change component parameters: Designator = "J5" ("J5"); Footprint = "L-KLS1-207-1-04-S"; UniqueID = "\XOSQGGZJ\KVUXVPIG" ("\XOSQGGZJ\KVUXVPIG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "L-KLS1-207-1-04-S"; UniqueID = "\XOSQGGZJ\RGCVHBTX" ("\XOSQGGZJ\RGCVHBTX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J27" ("J27"); Footprint = "L-KLS1-207-1-03-S"; UniqueID = "\KNERHVAH\CRYIIJAX" ("\KNERHVAH\CRYIIJAX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J28" ("J28"); Footprint = "L-KLS1-207-1-03-S"; UniqueID = "\KNERHVAH\BYUXDBFT" ("\KNERHVAH\BYUXDBFT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J61" ("J61"); Footprint = "L-KLS1-207-1-03-S"; UniqueID = "\KNERHVAH\EADRGNVM" ("\KNERHVAH\EADRGNVM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "L-KLS1-207-1-02-S"; UniqueID = "\XOSQGGZJ\RCMWFOXQ" ("\XOSQGGZJ\RCMWFOXQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B2B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "L-KLS1-207-1-02-S"; UniqueID = "\XOSQGGZJ\LZTGFMVS" ("\XOSQGGZJ\LZTGFMVS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B2B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0805_GEN_0.70H)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\FireANTs_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Resistors\R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "STD_JUMPER_#3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "2D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "AC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "10.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5.5mg"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0805_GEN_0.70H)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\FireANTs_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Resistors\R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "STD_JUMPER_#3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "2D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "AC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "10.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5.5mg"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0805_GEN_0.70H)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\FireANTs_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Resistors\R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "STD_JUMPER_#3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "2D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "AC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "10.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5.5mg"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0805_GEN_0.70H)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\FireANTs_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Resistors\R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "STD_JUMPER_#3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "2D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "AC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "10.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5.5mg"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0805_GEN_0.70H)
+Add component (AddParameter): Name = "Added by"; Value = "IlhanT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "YasinY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Resource Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\FireANTs_Repo\HW_Lib\trunk\ComponentLibrary\Resources\Resistors\R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure in Time"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FireANTs Code"; Value = "R00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Grade Level"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Identifier"; Value = "STD_JUMPER_#3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Status"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = "2D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#1 PN"; Value = "AC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer#2 PN"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Duration"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reflow Temp"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement Area"; Value = "10.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Similar Part"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Operating"; Value = "-55°C/+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp# Storage"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "5.5mg"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E1-0 Pin=R?-1
+Added Pin To Net: NetName=X-0 Pin=R?-1
+Added Pin To Net: NetName=Y_0 Pin=R?-1
+Added Pin To Net: NetName=Z+0 Pin=R?-1
+Added Pin To Net: NetName=Z_0 Pin=R?-1
+Added Pin To Net: NetName=E0DIAG Pin=R?-2
+Added Pin To Net: NetName=E1DIAG Pin=R?-2
+Added Pin To Net: NetName=XDIAG Pin=R?-2
+Added Pin To Net: NetName=YDIAG Pin=R?-2
+Added Pin To Net: NetName=ZDIAG Pin=R?-2
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing5 Member=Component R? StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R? StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R? StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R? StandardJumper
+Added Member To Class: ClassName=U_Printing5 Member=Component R? StandardJumper
+Added Room: Name=U_Printing2
+Added Room: Name=U_Printing3
+Added Room: Name=U_Printing4
+Added Room: Name=U_Printing5
+Added Room: Name=U_Printing6
+Added Room: Name=U_Printing

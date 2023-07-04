@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Q10-3
+Removed Pin From Net: NetName=GND Pin=Q11-3
+Removed Pin From Net: NetName=SSR_2 Pin=R177-1
+Removed Pin From Net: NetName=HOTBED Pin=R190-1
+Removed Member From Class: ClassName=U_Printing6 Member=Q10
+Removed Member From Class: ClassName=U_Printing6 Member=Q11
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=NetQ4_1 Pin=R176-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R177-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=U16-3
+Added Pin To Net: NetName=NetQ4_3 Pin=U21-4
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_1 Pin=R189-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R190-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_3 Pin=U12-3
+Added Pin To Net: NetName=NetQ5_3 Pin=U22-4
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI

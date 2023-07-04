@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=24V_SW Pin=F2-1
+Removed Pin From Net: NetName=NetD8_2 Pin=F2-2
+Removed Member From Class: ClassName=U_Printing Member=F2
+Added Component: Designator=Fuse1(696310001002)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/696310001002/Wurth+Elektronik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "696310001002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/696310001002/Wurth+Elektronik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V_SW Pin=Fuse1-1
+Added Pin To Net: NetName=24V_SW Pin=Fuse1-1
+Added Pin To Net: NetName=NetD8_2 Pin=Fuse1-2
+Change Net Name : Old Net Name=SPI1_MOSI New Net Name=SPI1_SCK
+Added Pin To Net: NetName=SPI1_MOSI Pin=J60-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-32
+Added Net: Name=SPI1_MOSI
+Added Member To Class: ClassName=U_Printing Member=Component Fuse1 5*20mm Fuseholder
+Added Member To Class: ClassName=U_Printing4 Member=Component Q1 SingleNPN_B1E2C3
+Added Member To Class: ClassName=U_Printing5 Member=Component R80 StandardJumper
+Added Room: Name=U_Printing2
+Added Room: Name=U_Printing3
+Added Room: Name=U_Printing4
+Added Room: Name=U_Printing5
+Added Room: Name=U_Printing6
+Added Room: Name=U_Printing
